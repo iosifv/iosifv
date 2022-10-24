@@ -30,7 +30,7 @@ jobs:
 
 
           # base
-          base: header, activity, repositories, metadata
+          base: header, activity, metadata
           repositories_forks: no
           repositories_affiliations: owner
           repositories_skipped: iosifv/iosifv
