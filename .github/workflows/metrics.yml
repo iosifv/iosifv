@@ -24,15 +24,16 @@ jobs:
           # repositories_batch: 5
           use_prebuilt_image: yes # faster execution
 
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
+
+
           # base
           base: header, activity, repositories, metadata
           repositories_forks: no
           repositories_affiliations: owner
           repositories_skipped: iosifv/iosifv
-
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
 
 #           plugin_discussions: yes
 
@@ -41,7 +42,6 @@ jobs:
             polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
             scripter, packager, explorer, infographile, manager
           plugin_achievements_display: compact
-          plugin_achievements_threshold: X
 
           # The languages plugin displays which programming languages you use the most across all your repositories.
           plugin_languages: yes
