@@ -15,10 +15,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: thomasdavis
+          user: iosifv
           template: classic
           config_gemoji: yes # use additional non-unicode emoji
-          config_timezone: America/Sao_Paulo
+          config_timezone: Europe/London
           retries: 3
           retries_delay: 300
           # repositories_batch: 5
