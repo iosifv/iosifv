@@ -25,12 +25,16 @@ jobs:
           use_prebuilt_image: yes # faster execution
 
           # base
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories, metadata
           repositories_forks: no
           repositories_affiliations: owner
           repositories_skipped: iosifv/iosifv
 
-          plugin_discussions: yes
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
+
+#           plugin_discussions: yes
 
           # The languages plugin displays which programming languages you use the most across all your repositories.
           plugin_languages: yes
