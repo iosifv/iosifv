@@ -28,7 +28,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           repositories_forks: no
           repositories_affiliations: owner
-          repositories_skipped: thomasdavis/thomasdavis
+          repositories_skipped: iosifv/iosifv
 
           plugin_discussions: yes
 
