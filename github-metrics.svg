@@ -116,6 +116,7 @@
                             <div class="label" title="MySQL is an open source relational database management system.">mysql</div>
                             <div class="label" title="PHP is a popular general-purpose scripting language that works particularly well for server-side web development.">php</div>
                             <div class="label" title="Bash is a shell and command language interpreter for the GNU operating system.">bash</div>
+                            <div class="label" title="A CLI, or command-line interface, is a console that helps users issue commands to a program.">command line interface</div>
                             <div class="label" title="TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.">typescript</div>
                             <div class="label" title="The PHP Framework for Web Artisans.">laravel</div>
                             <div class="label" title="Express is a minimal Node.js framework for web and mobile applications.">express</div>
@@ -447,7 +448,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Oct 2022, 23:16:00 (timezone Europe/London) with lowlighter/metrics@3.29.0-beta</span>
+                <span>Last updated 28 Oct 2022, 00:19:57 (timezone Europe/London) with lowlighter/metrics@3.29.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
