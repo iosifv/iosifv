@@ -115,8 +115,8 @@
                             <div class="label" title="Docker is a platform built for developers to build and run applications.">docker</div>
                             <div class="label" title="MySQL is an open source relational database management system.">mysql</div>
                             <div class="label" title="A CLI, or command-line interface, is a console that helps users issue commands to a program.">command-line interface</div>
-                            <div class="label" title="PHP is a popular general-purpose scripting language that works particularly well for server-side web development.">php</div>
                             <div class="label" title="TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.">typescript</div>
+                            <div class="label" title="PHP is a popular general-purpose scripting language that works particularly well for server-side web development.">php</div>
                             <div class="label" title="Bash is a shell and command language interpreter for the GNU operating system.">bash</div>
                             <div class="label" title="The PHP Framework for Web Artisans.">laravel</div>
                             <div class="label" title="Express is a minimal Node.js framework for web and mobile applications.">express</div>
@@ -130,7 +130,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Aug 2026, 03:48:25 (timezone Europe/London) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 9 Aug 2026, 02:45:21 (timezone Europe/London) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
